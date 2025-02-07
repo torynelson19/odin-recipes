@@ -7,3 +7,19 @@ ul a {
     font-size: 40px;
     color: yellow;
 }
+
+.pbj {
+    font-weight: 900;
+    color: rgb(255, 255, 0)
+
+}
+
+.wings {
+    color: rgb(255, 0, 255);
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: navy
+}
