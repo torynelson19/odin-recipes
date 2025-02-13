@@ -1,30 +1,48 @@
 ul a {
     color: black;
-    font-size: 20px;
+    font-size: 50px;
 }
 
 .pizza {
     font-size: 40px;
-    color: yellow;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .pbj {
-    font-weight: 900;
-    color: rgb(255, 255, 0)
-
+    font-size: 40px;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .wings {
-    color: rgb(255, 0, 255);
-    font-size: 60px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 body {
-    background-color: navy
+    background-color: white;
 }
 
-h1 {
+.title {
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: white;
+    background-color: black;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    padding: 20px;
+}
+
+.list {
+    padding-left: 600px;
+}
+
+img {
+    width: 33.1%;
+}
+
+.img-inline {
+    display: inline;
 }
